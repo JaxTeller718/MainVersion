@@ -7,8 +7,8 @@
 	warriorGameDifficultyBonus="0.6"  	 	
 	survivalistGameDifficultyBonus="1"	 	 	
 	insaneGameDifficultyBonus="1.5"	 	 	
-	daysAliveDifficultyBonus="0.5"	 	 	
-	daysAliveChangeWhenKilled ="0"	 	 	
+	daysAliveDifficultyBonus="0.9"	 	 	
+	daysAliveChangeWhenKilled ="1"	 	 	
 	diminishingReturns ="0.2" 	/>
 	<spawner name="WanderingHorde">
 		<!-- These will wrap around at 50. -->
