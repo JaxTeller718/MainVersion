@@ -17663,7 +17663,6 @@
 		<property name="Shape" value="ModelEntity" />
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
-		<drop event="Destroy" count="1" name="classSelection" prob="1"/>
 		<property name="CanPickup" value="true"/>
 		<property name="DowngradeBlock" value="rifleKit"/>
 		<property class="UpgradeBlock">
@@ -17696,7 +17695,6 @@
 		<property name="Shape" value="ModelEntity" />
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
-		<drop event="Destroy" count="1" name="classSelection" prob="1"/>
 		<property name="CanPickup" value="true"/>
 		<property name="DowngradeBlock" value="handgunKit"/>
 		<property class="UpgradeBlock">
@@ -17729,7 +17727,6 @@
 		<property name="Shape" value="ModelEntity" />
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
-		<drop event="Destroy" count="1" name="classSelection" prob="1"/>
 		<property name="CanPickup" value="true"/>
 		<property name="DowngradeBlock" value="shotgunKit"/>
 		<property class="UpgradeBlock">
@@ -17762,7 +17759,6 @@
 		<property name="Shape" value="ModelEntity" />
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
-		<drop event="Destroy" count="1" name="classSelection" prob="1"/>
 		<property name="CanPickup" value="true"/>
 		<property name="DowngradeBlock" value="survivorKit"/>
 		<property class="UpgradeBlock">
@@ -18080,7 +18076,6 @@
 		<property name="Shape" value="ModelEntity" />
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
-		<drop event="Destroy" count="1" name="classSelection" prob="1"/>
 		<property name="CanPickup" value="true"/>
 		<property name="DowngradeBlock" value="bowKit"/>
 		<property class="UpgradeBlock">
@@ -18113,7 +18108,6 @@
 		<property name="Shape" value="ModelEntity" />
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
-		<drop event="Destroy" count="1" name="classSelection" prob="1"/>
 		<property name="CanPickup" value="true"/>
 		<property name="DowngradeBlock" value="bladeKit"/>
 		<property class="UpgradeBlock">
@@ -18146,7 +18140,6 @@
 		<property name="Shape" value="ModelEntity" />
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
-		<drop event="Destroy" count="1" name="classSelection" prob="1"/>
 		<property name="CanPickup" value="true"/>
 		<property name="DowngradeBlock" value="bluntKit"/>
 		<property class="UpgradeBlock">
@@ -20906,7 +20899,6 @@
 		<property name="Shape" value="ModelEntity" />
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
-		<drop event="Destroy" count="1" name="classSelection" prob="1"/>
 		<property name="CanPickup" value="true"/>
 		<property name="DowngradeBlock" value="farmerKit"/>
 		<property class="UpgradeBlock">
@@ -20939,7 +20931,6 @@
 		<property name="Shape" value="ModelEntity" />
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
-		<drop event="Destroy" count="1" name="classSelection" prob="1"/>
 		<property name="CanPickup" value="true"/>
 		<property name="DowngradeBlock" value="medicalKit"/>
 		<property class="UpgradeBlock">
@@ -23277,7 +23268,6 @@
 		<property name="Shape" value="ModelEntity" />
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
-		<drop event="Destroy" count="1" name="classSelection" prob="1"/>
 		<property name="CanPickup" value="true"/>
 		<property name="DowngradeBlock" value="averageKit"/>
 		<property class="UpgradeBlock">
