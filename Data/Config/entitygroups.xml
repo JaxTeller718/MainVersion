@@ -1472,10 +1472,9 @@
 	<!-- https://7daystodie.com/forums/showthread.php?56533-Gamestage-Blood-Moon-Horde-generator -->
 	<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXX  start: auto generated animal sleeper horde groups  XXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 	<entitygroup name="animalHordeStageGS1">
-		<entity name="animalCrow"/>
+		<entity name="animalZombieDog"/>
 	</entitygroup>
 	<entitygroup name="animalHordeStageGS100">
-		<entity name="animalCrow"/>
 		<entity name="animalZombieDog"/>
 	</entitygroup>
 	<entitygroup name="animalHordeStageGS300">
@@ -1511,12 +1510,10 @@
 	<entitygroup name="animalHordeStageGS3000">
 		<entity name="animalDireWolf"/>
 		<entity name="animalZombieBear"/>
-		<entity name="animalBull"/>
 	</entitygroup>
 	<entitygroup name="animalHordeStageGS4000">
 		<entity name="animalDireWolf"/>
 		<entity name="animalZombieBear"/>
-		<entity name="animalBull"/>
 	</entitygroup>
 	<!-- https://7daystodie.com/forums/showthread.php?56533-Gamestage-Blood-Moon-Horde-generator -->
 	<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXX  start: auto generated sleeper horde groups  XXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
