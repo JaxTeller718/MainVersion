@@ -3167,7 +3167,6 @@
 		<property name="HeatMapStrength" value="2"/>
 		<property name="HeatMapTime" value="1200"/>
 		<property name="HeatMapFrequency" value="25"/>
-		<property name="BuffsWhenWalkedOn" value="blockBurn3Trigger"/>
 		<property name="ActiveRadiusEffects" value="+heatSource(3)"/>
 		<property name="RecipeList" value="campfire"/>
 		<property class="Workstation">
@@ -17284,7 +17283,6 @@
 		<property name="HeatMapStrength" value="0.2"/>
 		<property name="HeatMapTime" value="1200"/>
 		<property name="HeatMapFrequency" value="25"/>
-		<property name="BuffsWhenWalkedOn" value="blockBurn3Trigger"/>
 		<property name="ActiveRadiusEffects" value="+heatSource(3)"/>
 		<property name="RecipeList" value="Stoves"/>
 		<property class="Workstation">
@@ -17320,7 +17318,6 @@
 		<property name="HeatMapStrength" value="0.2"/>
 		<property name="HeatMapTime" value="1200"/>
 		<property name="HeatMapFrequency" value="25"/>
-		<property name="BuffsWhenWalkedOn" value="blockBurn3Trigger"/>
 		<property name="ActiveRadiusEffects" value="+heatSource(3)"/>
 		<property name="RecipeList" value="Stoves"/>
 		<property class="Workstation">
@@ -17656,7 +17653,7 @@
 	<block id="1747" name="rifleKitLocked">
 		<property name="DescriptionKey" value="rifleKitDesc"/>
 		<property name="CustomIcon" value="kit"/>
-		<property name="Material" value="class_selection" />
+		<property name="Material" value="Mmetal_weak" />
 		<property name="MaxDamage" value="300"/>
 		<property name="Weight" value="1" />
 		<property name="Mesh" value="models"/>
@@ -17664,7 +17661,6 @@
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
 		<property name="CanPickup" value="true"/>
-		<property name="DowngradeBlock" value="rifleKit"/>
 		<property class="UpgradeBlock">
 			<property name="ToBlock" value="rifleKit"/>
 			<property name="Item" value="survivorKey"/>
@@ -17688,7 +17684,7 @@
 	<block id="1740" name="handgunKitLocked">
 		<property name="DescriptionKey" value="handgunKitDesc"/>
 		<property name="CustomIcon" value="kit"/>
-		<property name="Material" value="class_selection" />
+		<property name="Material" value="Mmetal_weak" />
 		<property name="Weight" value="1" />
 		<property name="MaxDamage" value="300"/>
 		<property name="Mesh" value="models"/>
@@ -17696,7 +17692,6 @@
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
 		<property name="CanPickup" value="true"/>
-		<property name="DowngradeBlock" value="handgunKit"/>
 		<property class="UpgradeBlock">
 			<property name="ToBlock" value="handgunKit"/>
 			<property name="Item" value="survivorKey"/>
@@ -17720,7 +17715,7 @@
 	<block id="1742" name="shotgunKitLocked">
 		<property name="DescriptionKey" value="shotgunKitDesc"/>
 		<property name="CustomIcon" value="kit"/>
-		<property name="Material" value="class_selection" />
+		<property name="Material" value="Mmetal_weak" />
 		<property name="MaxDamage" value="300"/>
 		<property name="Weight" value="1" />
 		<property name="Mesh" value="models"/>
@@ -17728,7 +17723,6 @@
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
 		<property name="CanPickup" value="true"/>
-		<property name="DowngradeBlock" value="shotgunKit"/>
 		<property class="UpgradeBlock">
 			<property name="ToBlock" value="shotgunKit"/>
 			<property name="Item" value="survivorKey"/>
@@ -17752,7 +17746,7 @@
 	<block id="1744" name="survivorKitLocked">
 		<property name="DescriptionKey" value="survivalKitDesc"/>
 		<property name="CustomIcon" value="kit"/>
-		<property name="Material" value="class_selection" />
+		<property name="Material" value="Mmetal_weak" />
 		<property name="MaxDamage" value="300"/>
 		<property name="Weight" value="1" />
 		<property name="Mesh" value="models"/>
@@ -17760,7 +17754,6 @@
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
 		<property name="CanPickup" value="true"/>
-		<property name="DowngradeBlock" value="survivorKit"/>
 		<property class="UpgradeBlock">
 			<property name="ToBlock" value="survivorKit"/>
 			<property name="Item" value="survivorKey"/>
@@ -18069,7 +18062,7 @@
 	<block id="1717" name="bowKitLocked">
 		<property name="DescriptionKey" value="bowKitDesc"/>
 		<property name="CustomIcon" value="kit"/>
-		<property name="Material" value="class_selection" />
+		<property name="Material" value="Mmetal_weak" />
 		<property name="MaxDamage" value="300"/>
 		<property name="Weight" value="1" />
 		<property name="Mesh" value="models"/>
@@ -18077,7 +18070,6 @@
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
 		<property name="CanPickup" value="true"/>
-		<property name="DowngradeBlock" value="bowKit"/>
 		<property class="UpgradeBlock">
 			<property name="ToBlock" value="bowKit"/>
 			<property name="Item" value="survivorKey"/>
@@ -18101,7 +18093,7 @@
 	<block id="1719" name="bladeKitLocked">
 		<property name="DescriptionKey" value="bladeKitDesc"/>
 		<property name="CustomIcon" value="kit"/>
-		<property name="Material" value="class_selection" />
+		<property name="Material" value="Mmetal_weak" />
 		<property name="MaxDamage" value="300"/>
 		<property name="Weight" value="1" />
 		<property name="Mesh" value="models"/>
@@ -18109,7 +18101,6 @@
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
 		<property name="CanPickup" value="true"/>
-		<property name="DowngradeBlock" value="bladeKit"/>
 		<property class="UpgradeBlock">
 			<property name="ToBlock" value="bladeKit"/>
 			<property name="Item" value="survivorKey"/>
@@ -18133,7 +18124,7 @@
 	<block id="1721" name="bluntKitLocked">
 		<property name="DescriptionKey" value="bluntKitDesc"/>
 		<property name="CustomIcon" value="kit"/>
-		<property name="Material" value="class_selection" />
+		<property name="Material" value="Mmetal_weak" />
 		<property name="MaxDamage" value="300"/>
 		<property name="Weight" value="1" />
 		<property name="Mesh" value="models"/>
@@ -18141,7 +18132,6 @@
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
 		<property name="CanPickup" value="true"/>
-		<property name="DowngradeBlock" value="bluntKit"/>
 		<property class="UpgradeBlock">
 			<property name="ToBlock" value="bluntKit"/>
 			<property name="Item" value="survivorKey"/>
@@ -18364,7 +18354,6 @@
 		<property name="HeatMapTime" value="1200"/>
 		<property name="HeatMapFrequency" value="25"/>
 		<property name="MaxDamage" value="100"/>
-		<property name="BuffsWhenWalkedOn" value="blockBurn3Trigger"/>
 		<property name="ActiveRadiusEffects" value="+heatSource(3)"/>
 		<property name="RecipeList" value="trashCanSmoker"/>
 		<property class="Workstation">
@@ -20576,7 +20565,6 @@
 		<property name="HeatMapStrength" value="0.2"/>
 		<property name="HeatMapTime" value="1200"/>
 		<property name="HeatMapFrequency" value="25"/>
-		<property name="BuffsWhenWalkedOn" value="blockBurn3Trigger"/>
 		<property name="ActiveRadiusEffects" value="+heatSource(3)"/>
 		<property name="RecipeList" value="Stoves"/>
 		<property class="Workstation">
@@ -20614,7 +20602,6 @@
 		<property name="HeatMapStrength" value="0.2"/>
 		<property name="HeatMapTime" value="1200"/>
 		<property name="HeatMapFrequency" value="25"/>
-		<property name="BuffsWhenWalkedOn" value="blockBurn3Trigger"/>
 		<property name="ActiveRadiusEffects" value="+heatSource(3)"/>
 		<property name="RecipeList" value="Stoves"/>
 		<property class="Workstation">
@@ -20652,7 +20639,6 @@
 		<property name="HeatMapStrength" value="0.2"/>
 		<property name="HeatMapTime" value="1200"/>
 		<property name="HeatMapFrequency" value="25"/>
-		<property name="BuffsWhenWalkedOn" value="blockBurn3Trigger"/>
 		<property name="ActiveRadiusEffects" value="+heatSource(3)"/>
 		<property name="RecipeList" value="Stoves"/>
 		<property class="Workstation">
@@ -20769,7 +20755,6 @@
 		<property name="MultiBlockDim" value="2,2,1"/>
 		<property name="ImposterDontBlock" value="true"/>
 		<property name="DescriptionKey" value="blacksmithStationDesc"/>
-		<property name="BuffsWhenWalkedOn" value="blockBurn3Trigger"/>
 		<property name="RecipeList" value="blacksmithStation"/>
 		<property name="ActiveRadiusEffects" value="+heatSource(3)"/>
 		<property name="ParticleName" value="forge"/>
@@ -20795,7 +20780,7 @@
 	</block>
 	<block id="1632" name="tailorStation">
 		<property name="Extends" value="workbench"/>
-		<property name="Model" value="#RHStations?sewingTablePrefab"/>
+		<property name="Model" value="#RHStations?tailorsStation"/>
 		<property name="CustomIcon" value="tailorStation"/>
 		<property name="MultiBlockDim" value="2,2,1"/>
 		<property name="DescriptionKey" value="tailorStationDesc"/>
@@ -20892,7 +20877,7 @@
 	<block id="1078" name="farmerKitLocked">
 		<property name="DescriptionKey" value="farmerKitDesc"/>
 		<property name="CustomIcon" value="kit"/>
-		<property name="Material" value="class_selection" />
+		<property name="Material" value="Mmetal_weak" />
 		<property name="MaxDamage" value="300"/>
 		<property name="Weight" value="1" />
 		<property name="Mesh" value="models"/>
@@ -20900,7 +20885,6 @@
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
 		<property name="CanPickup" value="true"/>
-		<property name="DowngradeBlock" value="farmerKit"/>
 		<property class="UpgradeBlock">
 			<property name="ToBlock" value="farmerKit"/>
 			<property name="Item" value="survivorKey"/>
@@ -20924,7 +20908,7 @@
 	<block id="1080" name="medicalKitLocked">
 		<property name="DescriptionKey" value="medicKitDesc"/>
 		<property name="CustomIcon" value="kit"/>
-		<property name="Material" value="class_selection" />
+		<property name="Material" value="Mmetal_weak" />
 		<property name="MaxDamage" value="300"/>
 		<property name="Weight" value="1" />
 		<property name="Mesh" value="models"/>
@@ -20932,7 +20916,6 @@
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
 		<property name="CanPickup" value="true"/>
-		<property name="DowngradeBlock" value="medicalKit"/>
 		<property class="UpgradeBlock">
 			<property name="ToBlock" value="medicalKit"/>
 			<property name="Item" value="survivorKey"/>
@@ -23261,7 +23244,7 @@
 	<block id="1922" name="averageKitLocked">
 		<property name="DescriptionKey" value="averageKitDesc"/>
 		<property name="CustomIcon" value="kit"/>
-		<property name="Material" value="class_selection" />
+		<property name="Material" value="Mmetal_weak" />
 		<property name="MaxDamage" value="300"/>
 		<property name="Weight" value="1" />
 		<property name="Mesh" value="models"/>
@@ -23269,7 +23252,6 @@
 		<property name="Model" value="#kit?kitPrefab" />
 		<property name="Place" value="TowardsPlacer"/>
 		<property name="CanPickup" value="true"/>
-		<property name="DowngradeBlock" value="averageKit"/>
 		<property class="UpgradeBlock">
 			<property name="ToBlock" value="averageKit"/>
 			<property name="Item" value="survivorKey"/>
@@ -23438,7 +23420,6 @@
 		<property name="HeatMapStrength" value="2"/>
 		<property name="HeatMapTime" value="1200"/>
 		<property name="HeatMapFrequency" value="25"/>
-		<property name="BuffsWhenWalkedOn" value="blockBurn3Trigger"/>
 		<property name="ActiveRadiusEffects" value="+heatSource(3)"/>
 		<property name="RecipeList" value="trashCanSmoker"/>
 		<property class="Workstation">
@@ -23563,7 +23544,6 @@
 		<property name="IsTerrainDecoration" value="true"/>
 		<property name="ParticleName" value="campfire"/>
 		<property name="ParticleOffset" value=".5,.75,.45"/>
-		<property name="BuffsWhenWalkedOn" value="blockBurn3Trigger"/>
 		<property name="Stacknumber" value="1"/>
 		<property name="HeatMapStrength" value="1"/>
 		<property name="HeatMapTime" value="1200"/>
@@ -23601,7 +23581,6 @@
 		<property name="IsTerrainDecoration" value="true"/>
 		<property name="ParticleName" value="campfire"/>
 		<property name="ParticleOffset" value=".1,.70,.45"/>
-		<property name="BuffsWhenWalkedOn" value="blockBurn3Trigger"/>
 		<property name="Stacknumber" value="1"/>
 		<property name="HeatMapStrength" value="1"/>
 		<property name="HeatMapTime" value="1200"/>
@@ -23640,7 +23619,6 @@
 		<property name="ParticleName" value="campfire"/>
 		<property name="ParticleOffset" value="-0.1,0.95,0.45"/>
 		<property name="Stacknumber" value="1"/>
-		<property name="BuffsWhenWalkedOn" value="blockBurn3Trigger"/>
 		<property name="HeatMapStrength" value="1"/>
 		<property name="HeatMapTime" value="1200"/>
 		<property name="HeatMapFrequency" value="25"/>
@@ -23736,7 +23714,6 @@
 	</block>
 	<block id="1890" name="kingsBed">
 		<property name="DescriptionKey" value="kingsBedDesc"/>
-		<property name="Class" value="SleepingBag"/>
 		<property name="Material" value="woodgHard"/>
 		<property name="Shape" value="ModelEntity"/>
 		<property name="Model" value="#RHDecos?kingsBed"/>

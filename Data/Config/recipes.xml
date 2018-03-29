@@ -2657,61 +2657,61 @@
 	</recipe>
 	<!-- Classes Mod -->
 	<recipe name="rifleKitLocked" craft_time="30"  craft_area="ResearchDesk" craft_tool="inkPen">
-		<ingredient name="knowledgePoint" count="200"/>
+		<ingredient name="knowledgePoint" count="300"/>
 		<ingredient name="ink" count="25"/>
 		<ingredient name="forgedIron" count="10"/>
 	</recipe>
 	<!-- Classes Mod -->
 	<recipe name="handgunKitLocked" craft_time="30"  craft_area="ResearchDesk" craft_tool="inkPen">
-		<ingredient name="knowledgePoint" count="200"/>
+		<ingredient name="knowledgePoint" count="300"/>
 		<ingredient name="ink" count="25"/>
 		<ingredient name="forgedIron" count="10"/>
 	</recipe>
 	<!-- Classes Mod -->
 	<recipe name="shotgunKitLocked" craft_time="30"  craft_area="ResearchDesk" craft_tool="inkPen">
-		<ingredient name="knowledgePoint" count="200"/>
+		<ingredient name="knowledgePoint" count="300"/>
 		<ingredient name="ink" count="25"/>
 		<ingredient name="forgedIron" count="10"/>
 	</recipe>
 	<!-- Classes Mod -->
 	<recipe name="survivorKitLocked" craft_time="30"  craft_area="ResearchDesk" craft_tool="inkPen">
-		<ingredient name="knowledgePoint" count="200"/>
+		<ingredient name="knowledgePoint" count="300"/>
 		<ingredient name="ink" count="25"/>
 		<ingredient name="forgedIron" count="10"/>
 	</recipe>
 	<!-- Classes Mod -->
 	<recipe name="bowKitLocked" craft_time="30"  craft_area="ResearchDesk" craft_tool="inkPen">
-		<ingredient name="knowledgePoint" count="200"/>
+		<ingredient name="knowledgePoint" count="300"/>
 		<ingredient name="ink" count="25"/>
 		<ingredient name="forgedIron" count="10"/>
 	</recipe>
 	<!-- Classes Mod -->
 	<recipe name="bladeKitLocked" craft_time="30"  craft_area="ResearchDesk" craft_tool="inkPen">
-		<ingredient name="knowledgePoint" count="200"/>
+		<ingredient name="knowledgePoint" count="300"/>
 		<ingredient name="ink" count="25"/>
 		<ingredient name="forgedIron" count="10"/>
 	</recipe>
 	<!-- Classes Mod -->
 	<recipe name="bluntKitLocked" craft_time="30"  craft_area="ResearchDesk" craft_tool="inkPen">
-		<ingredient name="knowledgePoint" count="200"/>
+		<ingredient name="knowledgePoint" count="300"/>
 		<ingredient name="ink" count="25"/>
 		<ingredient name="forgedIron" count="10"/>
 	</recipe>
 	<!-- Classes Mod -->
 	<recipe name="farmerKitLocked" craft_time="30"  craft_area="ResearchDesk" craft_tool="inkPen">
-		<ingredient name="knowledgePoint" count="200"/>
+		<ingredient name="knowledgePoint" count="300"/>
 		<ingredient name="ink" count="25"/>
 		<ingredient name="forgedIron" count="10"/>
 	</recipe>
 	<!-- Classes Mod -->
 	<recipe name="medicalKitLocked" craft_time="30"  craft_area="ResearchDesk" craft_tool="inkPen">
-		<ingredient name="knowledgePoint" count="200"/>
+		<ingredient name="knowledgePoint" count="300"/>
 		<ingredient name="ink" count="25"/>
 		<ingredient name="forgedIron" count="10"/>
 	</recipe>
 	<!-- Classes Mod -->
 	<recipe name="averageKitLocked" craft_time="30"  craft_area="ResearchDesk" craft_tool="inkPen">
-		<ingredient name="knowledgePoint" count="200"/>
+		<ingredient name="knowledgePoint" count="300"/>
 		<ingredient name="ink" count="25"/>
 		<ingredient name="forgedIron" count="10"/>
 	</recipe>

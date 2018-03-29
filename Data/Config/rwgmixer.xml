@@ -376,8 +376,6 @@
 			<prefab name="xcostum_Asylum(by_Wsiegel)"  prob="0.5"/>
 			<prefab name="xcostum_Chernobyl(by_Maz_Burt)"  prob="0.5"/>
 			<prefab name="xcostum_CrashedAirplane(by_LazMan)"  prob="0.5"/>
-			<prefab name="xcostum_GasnWash32(by_LuckyStar)" max_count="1"/>
-			<prefab name="xcostum_GasStation(by_Warsaken)" max_count="1"/>
 		</prefab_rule>
 		<prefab_rule name="downtownGroup">
 			<prefab name="business_red_brick_01"/>
@@ -796,14 +794,11 @@
 			<prefab name="xcostum_pistol_gunshop(by_magoli)"  prob="0.5"/>
 			<prefab name="xcostum_Chernobyl(by_Maz_Burt)"  prob="0.5"/>
 			<prefab name="xcostum_CrashedAirplane(by_LazMan)"  prob="0.5"/>
-			<prefab name="HotelDeStallion" max_count="1" prob="0.3"/>
 			<prefab name="Tom_Hostel_destroyed"  prob="0.5"/>
 			<prefab name="Tom_Medievalhouse"  prob="0.5"/>
 			<prefab name="Tom_Shoppingcenter"  prob="0.5"/>
 			<prefab name="Tom_Spirallibrary"  prob="0.5"/>
 			<prefab name="Tom_Stonehouse"  prob="0.5"/>
-			<prefab name="ThePyramid" max_count="1"/>
-			<prefab name="kam_powerplant" max_count="1"  prob="1"/>
 			<prefab name="xcostum_CountyJail(by_Volar)" max_count="1" prob="0.3"/>
 			<prefab name="xcostum_Car_Dealership_old(by_P1ut0nium)" max_count="1" prob="0.3"/>
 			<prefab name="xcostum_Orphanage(ex_vanilla_ornate02)" max_count="1" prob="0.3"/>

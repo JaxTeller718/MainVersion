@@ -177,7 +177,7 @@
 	<item id="10" name="ClassPaperMaster">
 		<property name="CreativeMode" value="None" />
 		<property name="Meshfile" value="Items/Misc/Book" />
-		<property name="Material" value="class_selection" />
+		<property name="Material" value="knowledge_Points" />
 		<property name="HoldType" value="21" />
 		<property name="Weight" value="1" />
 		<property name="FuelValue" value="1" />
@@ -6510,8 +6510,8 @@
 		<property name="DescriptionKey" value="classSelectionRewardDesc" />
 		<property name="CustomIcon" value="classSelection" />
 		<property name="Meshfile" value="Items/Misc/Book" />
-		<property name="Material" value="class_selection" />
-		<property name="Weight" value="1" />
+		<property name="Material" value="knowledge_Points" />
+		<property name="Weight" value="5" />
 		<property name="HoldType" value="21" />
 		<property name="Stacknumber" value="1" />
 		<property name="FuelValue" value="20" />
@@ -23993,7 +23993,7 @@
 		<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab" />
 		<property name="Material" value="metal" />
 		<property name="HoldType" value="45" />
-		<property name="Weight" value="2" />
+		<property name="Weight" value="1" />
 		<property name="Stacknumber" value="1000" />
 		<property name="EconomicValue" value="10" />
 		<property name="EconomicBundleSize" value="10" />
@@ -24027,6 +24027,7 @@
 		<property name="CustomIcon" value="nail" />
 		<property name="CustomIconTint" value="a0a0ff" />
 		<property name="Material" value="metal" />
+		<property name="Weight" value="1" />
 		<property name="HoldType" value="45" />
 		<property name="Stacknumber" value="1000" />
 		<property name="EconomicValue" value="10" />
@@ -25950,7 +25951,7 @@
 	</item>
 	<!--     ********************************* *******************************Kukri******************************* ********************************* -->
 	<item id="1534" name="kukriRed">
-		<property name="Meshfile" value="#RHWeapons?kukriRed" />
+		<property name="Meshfile" value="#RHWeapons?kukriHot" />
 		<property name="Material" value="metal" />
 		<property name="RepairTools" value="forgedIron" />
 		<property name="HoldType" value="36" />
